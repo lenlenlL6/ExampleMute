@@ -8,4 +8,5 @@ commands:
  mute:
   description: Mute Người Chơi
   permission: mute.command
+  default: op
   
